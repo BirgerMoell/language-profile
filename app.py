@@ -370,8 +370,8 @@ def pdf_to_base64(pdf):
 
 
 # Title and description
-st.title("Z-Score Calculator")
-st.write("Enter your test score, age, and education level to calculate the z-score.")
+st.title("Language profile")
+st.write("Enter your test score, to calculate scores and create a PDF with the results.")
 
 # Input fields
 #test_score = st.number_input("Test Score", min_value=0, value=0, step=1)
